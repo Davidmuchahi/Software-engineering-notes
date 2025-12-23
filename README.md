@@ -393,17 +393,17 @@ A comprehensive collection of software engineering learning materials covering J
 
 ```
 Front-end-notes/
-├── phase-1-javascript/
-│   ├── Course-outline/
-│   ├── Git-And-Github/
-│   ├── week-1-JavaScript-Fundamentals-day-1/
-│   ├── week-1-Function-in-javascript-day-2/
-│   └── ... (additional weeks)
-└── phase-2-react/
-    ├── course-outline/
-    ├── week-1-Introduction-to-react-day-1/
-    ├── week-1-Introductio-Components-and-import-day-2/
-    └── ... (additional weeks)
+  phase-1-javascript/
+    - Course-outline/
+    - Git-And-Github/
+    - week-1-JavaScript-Fundamentals-day-1/
+    - week-1-Function-in-javascript-day-2/
+    - ... (additional weeks)
+  phase-2-react/
+    - course-outline/
+    - week-1-Introduction-to-react-day-1/
+    - week-1-Introductio-Components-and-import-day-2/
+    - ... (additional weeks)
 ```
 
 ## Contributing
