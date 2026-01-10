@@ -480,7 +480,7 @@ A comprehensive collection of software engineering learning materials covering f
 #### Optional: Regular Expressions
 - [Intro to Regular Expressions](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/Intro%20to%20Regular%20Expressions_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
 - [RegEx Basics](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/RegEx%20Basics_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
-- [The re Module](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/The%20_re_%20Module_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [The re Module](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/The%20\_re\_%20Module_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
 - [RegEx Validations Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/RegEx%20Validations%20Lab%20%28CodeGrade%29.pdf)
 - [Email Parser Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/Email%20Parser%20Lab%20%28CodeGrade%29.pdf)
 - [BONUS: RegEx Matching Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/BONUS_%20RegEx%20Matching%20Lab%20%28CodeGrade%29.pdf)
@@ -523,7 +523,7 @@ A comprehensive collection of software engineering learning materials covering f
 #### Using SQLAlchemy
 - [Intro to SQLAlchemy](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Intro%20to%20SQLAlchemy_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
 - [Defining a Schema with SQLAlchemy ORM](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Defining%20a%20Schema%20with%20SQLAlchemy%20ORM.pdf)
-- [Create, Read, Update, and Delete with SQLAlchemy](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Create%2C%20Read%2C%20Update%2C%20and%20Delete%20with%20SQLAlchemy_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Create, Read, Update, and Delete with SQLAlchemy](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Create,%20Read,%20Update,%20and%20Delete%20with%20SQLAlchemy_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
 - [Translating from ORMS to SQLAlchemy Lab](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Translating%20from%20ORMS%20to%20SQLAlchemy%20Lab.pdf)
 - [Migrations and Alembic](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Migrations%20and%20Alembic.pdf)
 - [Manual Migrations and Downgrades](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Manual%20Migrations%20and%20Downgrades.pdf)
