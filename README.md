@@ -1,11 +1,18 @@
 # Software Engineering Notes
 
-A comprehensive collection of software engineering learning materials covering JavaScript fundamentals through advanced React development. This repository contains PDF resources organized by phase and topic.
+A comprehensive collection of software engineering learning materials covering full-stack development from JavaScript fundamentals through Python/Backend and Flask. This repository contains PDF resources organized by phase and topic, covering:
+
+- **Phase 1**: JavaScript Fundamentals
+- **Phase 2**: React Development
+- **Phase 3**: Python/Backend Development
+- **Phase 4**: Flask Framework & Full-Stack Integration
 
 ## Table of Contents
 
 - [Phase 1: JavaScript](#phase-1-javascript)
 - [Phase 2: React](#phase-2-react)
+- [Phase 3: Python/Backend](#phase-3-pythonbackend)
+- [Phase 4: Flask](#phase-4-flask)
 - [How to Use These Notes](#how-to-use-these-notes)
 - [Contributing](#contributing)
 
@@ -380,6 +387,325 @@ A comprehensive collection of software engineering learning materials covering J
 
 ---
 
+## Phase 3: Python/Backend
+
+### Course Overview
+- [Phase 3 Course Outline](Backend/phase-3/Python-notes/Course-Outline/Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+### Week 1: Python Fundamentals
+
+#### Day 1: Python Fundamentals
+- [Intro to Python](Backend/phase-3/Python-notes/week1-day1-Python-Fundamentals/Intro%20to%20Python_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Common Data Types](Backend/phase-3/Python-notes/week1-day1-Python-Fundamentals/Common%20Data%20Types_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Running Python Code (CodeGrade)](Backend/phase-3/Python-notes/week1-day1-Python-Fundamentals/Running%20Python%20Code%20%28CodeGrade%29.pdf)
+- [Reading Python Error Messages (CodeGrade)](Backend/phase-3/Python-notes/week1-day1-Python-Fundamentals/Reading%20Python%20Error%20Messages%20%28CodeGrade%29.pdf)
+
+#### Day 2: Python Basics
+- [Variable Scope](Backend/phase-3/Python-notes/week1-day2-Python-Basics/Variable%20Scope_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Indentation in Python](Backend/phase-3/Python-notes/week1-day2-Python-Basics/Indentation%20in%20Python_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Functions in Python (CodeGrade)](Backend/phase-3/Python-notes/week1-day2-Python-Basics/Functions%20in%20Python%20%28CodeGrade%29.pdf)
+- [Debugging with ipdb (CodeGrade)](Backend/phase-3/Python-notes/week1-day2-Python-Basics/Debugging%20with%20ipdb%20%28CodeGrade%29.pdf)
+- [pytest (CodeGrade)](Backend/phase-3/Python-notes/week1-day2-Python-Basics/pytest%20%28CodeGrade%29.pdf)
+
+#### Day 3: Python Control Flow
+- [Control Flow: Operators](Backend/phase-3/Python-notes/week1-day3-Python-Control-Flow/Control%20Flow_%20Operators_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Control Flow: Conditional Statements (CodeGrade)](Backend/phase-3/Python-notes/week1-day3-Python-Control-Flow/Control%20Flow_%20Conditional%20Statements%20%28CodeGrade%29.pdf)
+- [Control Flow: Loops (CodeGrade)](Backend/phase-3/Python-notes/week1-day3-Python-Control-Flow/Control%20Flow_%20Loops%20%28CodeGrade%29.pdf)
+- [Decorators](Backend/phase-3/Python-notes/week1-day3-Python-Control-Flow/Decorators_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Conclusion to Python Fundamentals](Backend/phase-3/Python-notes/week1-day3-Python-Control-Flow/Conclusion%20to%20Python%20Fundamentals_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Day 4: Data Structures in Python
+- [Intro to Data Structures](Backend/phase-3/Python-notes/week1-day4-Data-Structures-in-python/Intro%20to%20Data%20Structures_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Sequences (CodeGrade)](Backend/phase-3/Python-notes/week1-day4-Data-Structures-in-python/Sequences%20%28CodeGrade%29.pdf)
+- [List Comprehensions and Generator Expressions (CodeGrade)](Backend/phase-3/Python-notes/week1-day4-Data-Structures-in-python/List%20Comprehensions%20and%20Generator%20Expressions%20%28CodeGrade%29.pdf)
+- [Dictionaries](Backend/phase-3/Python-notes/week1-day4-Data-Structures-in-python/Dictionaries_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+### Week 2: Object-Oriented Programming in Python
+
+#### Day 6: Object-Oriented in Python
+- [Intro to Object-Oriented Programming](Backend/phase-3/Python-notes/week2-day6-Object-oriented-in-Python/Intro%20to%20Object-Oriented%20Programming_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Defining Object-Oriented Programming](Backend/phase-3/Python-notes/week2-day6-Object-oriented-in-Python/Defining%20Object-Oriented%20Programming_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Classes and Instances](Backend/phase-3/Python-notes/week2-day6-Object-oriented-in-Python/Classes%20and%20Instances_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Instance Methods (CodeGrade)](Backend/phase-3/Python-notes/week2-day6-Object-oriented-in-Python/Instance%20Methods%20%28CodeGrade%29.pdf)
+- [Object Initialization (CodeGrade)](Backend/phase-3/Python-notes/week2-day6-Object-oriented-in-Python/Object%20Initialization%20%28CodeGrade%29.pdf)
+
+#### Day 7: Python Objects
+- [Attributes and Properties (CodeGrade)](Backend/phase-3/Python-notes/week2-day7-Python-Objects/Attributes%20and%20Properties%20%28CodeGrade%29.pdf)
+- [Property Function Decorator | Code-Along (CodeGrade)](Backend/phase-3/Python-notes/week2-day7-Python-Objects/Property%20Function%20Decorator%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Putting It All Together: Object-Oriented Programming Lab (CodeGrade)](Backend/phase-3/Python-notes/week2-day7-Python-Objects/Putting%20It%20All%20Together_%20Object-Oriented%20Programming%20Lab%20%28CodeGrade%29.pdf)
+- [Principles of Object-Oriented Design](Backend/phase-3/Python-notes/week2-day7-Python-Objects/Principles%20of%20Object-Oriented%20Design_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Anagram Detector Lab (CodeGrade)](Backend/phase-3/Python-notes/week2-day7-Python-Objects/Anagram%20Detector%20Lab%20%28CodeGrade%29.pdf)
+
+#### Day 8: Principles of OOP
+- [Counting Sentences Lab (CodeGrade)](Backend/phase-3/Python-notes/week2-day8-Principles-of-OOP/Counting%20Sentences%20Lab%20%28CodeGrade%29.pdf)
+- [Cash Register Lab (CodeGrade)](Backend/phase-3/Python-notes/week2-day8-Principles-of-OOP/Cash%20Register%20Lab%20%28CodeGrade%29.pdf)
+
+#### Day 9: Object Inheritance in Python
+- [Intro to Object Inheritance](Backend/phase-3/Python-notes/week2-day9-Object-Inheritance-In-Python/Intro%20to%20Object%20Inheritance_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Defining Object Inheritance (CodeGrade)](Backend/phase-3/Python-notes/week2-day9-Object-Inheritance-In-Python/Defining%20Object%20Inheritance%20%28CodeGrade%29.pdf)
+- [Super](Backend/phase-3/Python-notes/week2-day9-Object-Inheritance-In-Python/Super_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Mini Lesson: Lambda Functions](Backend/phase-3/Python-notes/week2-day9-Object-Inheritance-In-Python/Mini%20Lesson_%20Lambda%20Functions_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Object Inheritance Lab Part One (CodeGrade)](Backend/phase-3/Python-notes/week2-day9-Object-Inheritance-In-Python/Object%20Inheritance%20Lab%20Part%20One%20%28CodeGrade%29.pdf)
+- [Object Inheritance Lab Part Two (CodeGrade)](Backend/phase-3/Python-notes/week2-day9-Object-Inheritance-In-Python/Object%20Inheritance%20Lab%20Part%20Two%20%28CodeGrade%29.pdf)
+
+#### Day 10: Class Attributes and Class Methods
+- [Intro to Class Attributes and Class Methods](Backend/phase-3/Python-notes/week2-day10-Class-Attributes-and-Class-Methods/Intro%20to%20Class%20Attributes%20and%20Class%20Methods_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Defining Class Attributes and Class Methods](Backend/phase-3/Python-notes/week2-day10-Class-Attributes-and-Class-Methods/Defining%20Class%20Attributes%20and%20Class%20Methods_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Remembering Objects](Backend/phase-3/Python-notes/week2-day10-Class-Attributes-and-Class-Methods/Remembering%20Objects_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Class Attributes and Methods Lab (CodeGrade)](Backend/phase-3/Python-notes/week2-day10-Class-Attributes-and-Class-Methods/Class%20Attributes%20and%20Methods%20Lab%20%28CodeGrade%29.pdf)
+
+### Week 3: Configuration and SQL
+
+#### Day 11: Configuring Python Applications
+- [Intro to Configuring Python Applications](Backend/phase-3/Python-notes/week3-Day11-Configuring-Python-Application/Intro%20to%20Configuring%20Python%20Applications_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Import (CodeGrade)](Backend/phase-3/Python-notes/week3-Day11-Configuring-Python-Application/Import%20%28CodeGrade%29.pdf)
+- [Intro to File IO](Backend/phase-3/Python-notes/week3-Day11-Configuring-Python-Application/Intro%20to%20File%20IO_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [File IO Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Day11-Configuring-Python-Application/File%20IO%20Lab%20%28CodeGrade%29.pdf)
+- [Environment Setup (Code-Along)](Backend/phase-3/Python-notes/week3-Day11-Configuring-Python-Application/Environment%20Setup%20%28Code-Along%29_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Day 12: Setup
+- [PyPi and Pip](Backend/phase-3/Python-notes/week3-Day12-Setup/PyPi%20and%20Pip_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Environment Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Day12-Setup/Environment%20Lab%20%28CodeGrade%29.pdf)
+- [Python Scripting](Backend/phase-3/Python-notes/week3-Day12-Setup/Python%20Scripting_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Day 14: Object Relationships
+- [Intro to Object Relationships](Backend/phase-3/Python-notes/week3-Day14-Object-Relationships/Intro%20to%20Object%20Relationships_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [One-to-many Object Relationships](Backend/phase-3/Python-notes/week3-Day14-Object-Relationships/One-to-many%20Object%20Relationships_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [One-to-many Object Relationships Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Day14-Object-Relationships/One-to-many%20Object%20Relationships%20Lab%20%28CodeGrade%29.pdf)
+- [Many-to-many Object Relationships](Backend/phase-3/Python-notes/week3-Day14-Object-Relationships/Many-to-many%20Object%20Relationships_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Mini Lesson: Aggregate Methods (CodeGrade)](Backend/phase-3/Python-notes/week3-Day14-Object-Relationships/Mini%20Lesson_%20Aggregate%20Methods%20%28CodeGrade%29.pdf)
+- [Many-to-many Object Relationships Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Day14-Object-Relationships/Many-to-many%20Object%20Relationships%20Lab%20%28CodeGrade%29.pdf)
+- [Conclusion to Object Relationships](Backend/phase-3/Python-notes/week3-Day14-Object-Relationships/Conclusion%20to%20Object%20Relationships_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Optional: Regular Expressions
+- [Intro to Regular Expressions](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/Intro%20to%20Regular%20Expressions_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [RegEx Basics](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/RegEx%20Basics_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [The re Module](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/The%20_re_%20Module_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [RegEx Validations Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/RegEx%20Validations%20Lab%20%28CodeGrade%29.pdf)
+- [Email Parser Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/Email%20Parser%20Lab%20%28CodeGrade%29.pdf)
+- [BONUS: RegEx Matching Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/BONUS_%20RegEx%20Matching%20Lab%20%28CodeGrade%29.pdf)
+- [Conclusion to Regular Expressions](Backend/phase-3/Python-notes/week3-Optional-Regular-Expression/Conclusion%20to%20Regular%20Expressions_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Day 15: SQL Fundamentals
+- [Intro to SQL](Backend/phase-3/Python-notes/week3-Day15-SQL-Fundamentals/Intro%20to%20SQL_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Setting up SQLite](Backend/phase-3/Python-notes/week3-Day15-SQL-Fundamentals/Setting%20up%20SQLite_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Database Basics](Backend/phase-3/Python-notes/week3-Day15-SQL-Fundamentals/Database%20Basics_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Writing Database Commands to a File](Backend/phase-3/Python-notes/week3-Day15-SQL-Fundamentals/Writing%20Database%20Commands%20to%20a%20File_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [SQLite Data Types](Backend/phase-3/Python-notes/week3-Day15-SQL-Fundamentals/SQLite%20Data%20Types_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Day 16: SQL CRUD Operations
+- [CRUD Operations in SQL](Backend/phase-3/Python-notes/week3-Day16/CRUD%20Operations%20in%20SQL_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [SQL Queries](Backend/phase-3/Python-notes/week3-Day16/SQL%20Queries_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Organizing Bears Lab (CodeGrade)](Backend/phase-3/Python-notes/week3-Day16/Organizing%20Bears%20Lab%20%28CodeGrade%29.pdf)
+
+### Week 4: ORM and SQLAlchemy
+
+#### Day 17: Table Relations in SQL
+- [Intro to Table Relations in SQL](Backend/phase-3/Python-notes/week4-Day17-Table-Relations-in-SQL/Intro%20to%20Table%20Relations%20in%20SQL_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Relational Database Basics](Backend/phase-3/Python-notes/week4-Day17-Table-Relations-in-SQL/Relational%20Database%20Basics_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Associating Tables with Foreign Keys](Backend/phase-3/Python-notes/week4-Day17-Table-Relations-in-SQL/Associating%20Tables%20with%20Foreign%20Keys_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [SQL Joins](Backend/phase-3/Python-notes/week4-Day17-Table-Relations-in-SQL/SQL%20Joins_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Creating Join Tables](Backend/phase-3/Python-notes/week4-Day17-Table-Relations-in-SQL/Creating%20Join%20Tables_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Conclusion to Table Relations in SQL](Backend/phase-3/Python-notes/week4-Day17-Table-Relations-in-SQL/Conclusion%20to%20Table%20Relations%20in%20SQL_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Day 18: Object-Relational Mapping
+- [Intro to Object-Relational Mapping](Backend/phase-3/Python-notes/week4-Day18-Object-Relational-Mapping/Intro%20to%20Object-Relational%20Mapping_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Defining Object-Relational Mapping](Backend/phase-3/Python-notes/week4-Day18-Object-Relational-Mapping/Defining%20Object-Relational%20Mapping_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Mapping A Python Class to a Database Table | Code-Along (CodeGrade)](Backend/phase-3/Python-notes/week4-Day18-Object-Relational-Mapping/Mapping%20A%20Python%20Class%20to%20a%20Database%20Table%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Mapping a database row to a Python object | Code-Along (CodeGrade)](Backend/phase-3/Python-notes/week4-Day18-Object-Relational-Mapping/Mapping%20a%20database%20row%20to%20a%20Python%20object%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Mapping Object Relationships | Code-Along (CodeGrade)](Backend/phase-3/Python-notes/week4-Day18-Object-Relational-Mapping/Mapping%20Object%20Relationships%20_%20Code-Along%20%28CodeGrade%29.pdf)
+
+#### Day 19: Mapping
+- [ORM Validation and Properties | Code-Along (CodeGrade)](Backend/phase-3/Python-notes/week4-Day19-Mapping/ORM%20Validation%20and%20Properties%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [ORM Lab (CodeGrade)](Backend/phase-3/Python-notes/week4-Day19-Mapping/ORM%20Lab%20%28CodeGrade%29.pdf)
+- [Conclusion to Object-Relational Mapping](Backend/phase-3/Python-notes/week4-Day19-Mapping/Conclusion%20to%20Object-Relational%20Mapping_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Using SQLAlchemy
+- [Intro to SQLAlchemy](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Intro%20to%20SQLAlchemy_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Defining a Schema with SQLAlchemy ORM](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Defining%20a%20Schema%20with%20SQLAlchemy%20ORM.pdf)
+- [Create, Read, Update, and Delete with SQLAlchemy](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Create%2C%20Read%2C%20Update%2C%20and%20Delete%20with%20SQLAlchemy_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Translating from ORMS to SQLAlchemy Lab](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Translating%20from%20ORMS%20to%20SQLAlchemy%20Lab.pdf)
+- [Migrations and Alembic](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Migrations%20and%20Alembic.pdf)
+- [Manual Migrations and Downgrades](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Manual%20Migrations%20and%20Downgrades.pdf)
+- [Working with Seed Data](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Working%20with%20Seed%20Data.pdf)
+- [Conclusion to SQLAlchemy](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy/Conclusion%20to%20SQLAlchemy_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Using SQLAlchemy - Relationships
+- [Intro to SQLAlchemy Relationships](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy-Continuation/Intro%20to%20SQLAlchemy%20Relationships_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [One-to-One and One-to-Many Relationships](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy-Continuation/One-to-One%20and%20One-to-Many%20Relationships.pdf)
+- [Many-to-Many Relationships](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy-Continuation/Many-to-Many%20Relationships.pdf)
+- [Conclusion to SQLAlchemy Relationships](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy-Continuation/Conclusion%20to%20SQLAlchemy%20Relationships_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Phase 3 Mock Code Challenge: Freebie Tracker](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy-Continuation/Phase%203%20Mock%20Code%20Challenge_%20Freebie%20Tracker.pdf)
+- [Phase 3 Mock Code Challenge: Theater Work](Backend/phase-3/Python-notes/week4-Using-SQLAlchemy-Continuation/Phase%203%20Mock%20Code%20Challenge_%20Theater%20Work.pdf)
+
+#### Day 20: Data Structures and Algorithms
+- [Introduction to Data Structures and Algorithms](Backend/phase-3/Python-notes/week4-Day20-DataStructures-And-Algorithms/Introduction%20to%20Data%20Structures%20and%20Algorithms_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Using Data Structures](Backend/phase-3/Python-notes/week4-Day20-DataStructures-And-Algorithms/Using%20Data%20Structures_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Stack Data Structure](Backend/phase-3/Python-notes/week4-Day20-DataStructures-And-Algorithms/Stack%20Data%20Structure_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Stack Lab (CodeGrade)](Backend/phase-3/Python-notes/week4-Day20-DataStructures-And-Algorithms/Stack%20Lab%20%28CodeGrade%29.pdf)
+- [Set Data Structure Code Along (CodeGrade)](Backend/phase-3/Python-notes/week4-Day20-DataStructures-And-Algorithms/Set%20Data%20Structure%20Code%20Along%20%28CodeGrade%29.pdf)
+
+### Week 5: Advanced Topics
+
+#### Day 21: Linked Lists
+- [Singly Linked List Data Structure](Backend/phase-3/Python-notes/week5-Day21-Linked-Lists/Singly%20Linked%20List%20Data%20Structure_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Doubly Linked List Data Structure](Backend/phase-3/Python-notes/week5-Day21-Linked-Lists/Doubly%20Linked%20List%20Data%20Structure_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Tree Data Structure](Backend/phase-3/Python-notes/week5-Day21-Linked-Lists/Tree%20Data%20Structure_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Tree Traversal (CodeGrade)](Backend/phase-3/Python-notes/week5-Day21-Linked-Lists/Tree%20Traversal%20%28CodeGrade%29.pdf)
+
+#### Day 22: OpenAI API Introduction
+- [Language Model Overview](Backend/phase-3/Python-notes/week5-Day22-OpenAI-API-introduction/Language%20Model%20Overview_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [OpenAI API Overview and Setup](Backend/phase-3/Python-notes/week5-Day22-OpenAI-API-introduction/OpenAI%20API%20Overview%20and%20Setup_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [Chat Completions API](Backend/phase-3/Python-notes/week5-Day22-OpenAI-API-introduction/Chat%20Completions%20API_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+
+#### Day 23: Python CLI
+- [Intro to CLIs](Backend/phase-3/Python-notes/week5-Day23-PythonCli/Intro%20to%20CLIs_%20Software%20Engineering%20Part-Time%209%20Phase%203.pdf)
+- [CLI and ORM: Code-Along (CodeGrade)](Backend/phase-3/Python-notes/week5-Day23-PythonCli/CLI%20and%20ORM_%20Code-Along%20%28CodeGrade%29.pdf)
+- [CLI Lab (CodeGrade)](Backend/phase-3/Python-notes/week5-Day23-PythonCli/CLI%20Lab%20%28CodeGrade%29.pdf)
+
+#### Day 24: Code Challenges
+- [Phase 3 Code Challenge: Articles - without SQLAlchemy (Updated) (CodeGrade)](Backend/phase-3/Python-notes/week5-Day24-CodeChallenges/Phase%203%20Code%20Challenge_%20Articles%20-%20without%20SQLAlchemy%20%28Updated%29%20%28CodeGrade%29.pdf)
+
+#### Mock Code Challenges
+- [Mock Code Challenge - Coffee Shop (Object Relationships)](Backend/phase-3/Python-notes/week5-Mock-Code-Challenges/Mock%20Code%20Challenge%20-%20Coffee%20Shop%20%28Object%20Relationships%29.pdf)
+- [Mock Code Challenge - Game Tracker (Object Relationships)](Backend/phase-3/Python-notes/week5-Mock-Code-Challenges/Mock%20Code%20Challenge%20-%20Game%20Tracker%20%28Object%20Relationships%29.pdf)
+- [Mock Code Challenge - National Parks (Object Relationships)](Backend/phase-3/Python-notes/week5-Mock-Code-Challenges/Mock%20Code%20Challenge%20-%20National%20Parks%20%28Object%20Relationships%29.pdf)
+
+---
+
+## Phase 4: Flask
+
+### Course Overview
+- [Phase 4 Course Outline](Backend/phase-4-Flasknotes/course-outline/Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+### Week 1: Flask Fundamentals
+
+#### Day 1: Intro to Flask
+- [Intro to Flask](Backend/phase-4-Flasknotes/week1-Day1-Intro/Intro%20to%20Flask_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [How the Web Works](Backend/phase-4-Flasknotes/week1-Day1-Intro/How%20the%20Web%20Works_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Web Servers and WSGI (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day1-Intro/Web%20Servers%20and%20WSGI%20%28CodeGrade%29.pdf)
+- [Building Flask Applications (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day1-Intro/Building%20Flask%20Applications%20%28CodeGrade%29.pdf)
+
+#### Day 2: Flask Routing and Request-Response
+- [The Request-Response Cycle (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day2/The%20Request-Response%20Cycle%20%28CodeGrade%29.pdf)
+- [Flask Routing and Views Lab (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day2/Flask%20Routing%20and%20Views%20Lab%20%28CodeGrade%29.pdf)
+- [Conclusion to Flask Fundamentals](Backend/phase-4-Flasknotes/week1-Day2/Conclusion%20to%20Flask%20Fundamentals_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+#### Day 3: Intro to Flask-SQLAlchemy
+- [Flask-SQLAlchemy | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day3-Intro-to-Flask-SQLAlchemy/Flask-SQLAlchemy%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Flask-SQLAlchemy CRUD (Flask Shell): Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day3-Intro-to-Flask-SQLAlchemy/Flask-SQLAlchemy%20CRUD%20%28Flask%20Shell%29_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Database Migration | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day3-Intro-to-Flask-SQLAlchemy/Database%20Migration%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Seeding a Database | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day3-Intro-to-Flask-SQLAlchemy/Seeding%20a%20Database%20_%20Code-Along%20%28CodeGrade%29.pdf)
+
+#### Day 4: SQLAlchemy
+- [Querying a Database in a Flask Application | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day4-SQAlchemy/Querying%20a%20Database%20in%20a%20Flask%20Application%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Serialization | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day4-SQAlchemy/Serialization%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Returning a JSON response | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day4-SQAlchemy/Returning%20a%20JSON%20response%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Flask-SQLAlchemy Lab 1 (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day4-SQAlchemy/Flask-SQLAlchemy%20Lab%201%20%28CodeGrade%29.pdf)
+
+#### Day 5: Modelling Relationships
+- [One-to-One and One-To-Many Relationships | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day5-Modelling-relationships/One-to-One%20and%20One-To-Many%20Relationships%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Many-To-Many Relationships | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day5-Modelling-relationships/Many-To-Many%20Relationships%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Serialization and Relationships | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day5-Modelling-relationships/Serialization%20and%20Relationships%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Flask-SQLAlchemy Lab 2 (CodeGrade)](Backend/phase-4-Flasknotes/week1-Day5-Modelling-relationships/Flask-SQLAlchemy%20Lab%202%20%28CodeGrade%29.pdf)
+
+### Week 2: Building APIs
+
+#### Day 6: Retrieving Data From APIs
+- [Introduction to Getting Remote Data](Backend/phase-4-Flasknotes/week2-Day6-RetrivingData-From-APIs/Introduction%20to%20Getting%20Remote%20Data_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Sending GET Requests](Backend/phase-4-Flasknotes/week2-Day6-RetrivingData-From-APIs/Sending%20GET%20Requests_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Testing APIs with Postman](Backend/phase-4-Flasknotes/week2-Day6-RetrivingData-From-APIs/Testing%20APIs%20with%20Postman_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Working with APIs (Updated) (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day6-RetrivingData-From-APIs/Working%20with%20APIs%20%28Updated%29%20%28CodeGrade%29.pdf)
+- [Getting Remote Data Lab (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day6-RetrivingData-From-APIs/Getting%20Remote%20Data%20Lab%20%28CodeGrade%29.pdf)
+- [Getting Remote Data Conclusion](Backend/phase-4-Flasknotes/week2-Day6-RetrivingData-From-APIs/Getting%20Remote%20Data%20Conclusion_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+#### Day 7: Building APIs
+- [Intro to Building APIs](Backend/phase-4-Flasknotes/week2-Day7-Building-APIs/Intro%20to%20Building%20APIs_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Building a GET API | Code-Along (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day7-Building-APIs/Building%20a%20GET%20API%20_%20Code-Along%20%28CodeGrade%29.pdf)
+- [Building a GET API Lab (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day7-Building-APIs/Building%20a%20GET%20API%20Lab%20%28CodeGrade%29.pdf)
+- [Building a POST/PATCH/DELETE API (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day7-Building-APIs/Building%20a%20POST_PATCH_DELETE%20API%20%28CodeGrade%29.pdf)
+- [Building a POST/PATCH/DELETE API Lab (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day7-Building-APIs/Building%20a%20POST_PATCH_DELETE%20API%20Lab%20%28CodeGrade%29.pdf)
+- [Chatterbox Lab (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day7-Building-APIs/Chatterbox%20Lab%20%28CodeGrade%29.pdf)
+- [Conclusion to Building APIs](Backend/phase-4-Flasknotes/week2-Day7-Building-APIs/Conclusion%20to%20Building%20APIs_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+#### Day 8: REST APIs
+- [Intro to REST](Backend/phase-4-Flasknotes/week2-Day8-REST-APIs/Intro%20to%20REST_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Create and Retrieve with Flask-RESTful (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day8-REST-APIs/Create%20and%20Retrieve%20with%20Flask-RESTful%20%28CodeGrade%29.pdf)
+- [REST Create and Retrieve Lab (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day8-REST-APIs/REST%20Create%20and%20Retrieve%20Lab%20%28CodeGrade%29.pdf)
+- [Update and Delete with Flask-RESTful (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day8-REST-APIs/Update%20and%20Delete%20with%20Flask-RESTful%20%28CodeGrade%29.pdf)
+- [Error Handling In RESTful APIs](Backend/phase-4-Flasknotes/week2-Day8-REST-APIs/Error%20Handling%20In%20RESTful%20APIs_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+#### Day 9: REST Continuation
+- [REST CRUD Lab (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day9-Rest/REST%20CRUD%20Lab%20%28CodeGrade%29.pdf)
+- [Bonus: REST Philosophy](Backend/phase-4-Flasknotes/week2-Day9-Rest/Bonus_%20REST%20Philosophy_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Bonus: HATEOAS and Marshmallow (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day9-Rest/Bonus_%20HATEOAS%20and%20Marshmallow%20%28CodeGrade%29.pdf)
+- [Conclusion to REST](Backend/phase-4-Flasknotes/week2-Day9-Rest/Conclusion%20to%20REST_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+#### Day 10: Constraints and Validations
+- [Intro to Constraints and Validations](Backend/phase-4-Flasknotes/week2-Day10-Constraints-and-Validations/Intro%20to%20Constraints%20and%20Validations_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [SQLAlchemy Constraints](Backend/phase-4-Flasknotes/week2-Day10-Constraints-and-Validations/SQLAlchemy%20Constraints_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Flask-SQLAlchemy Validations](Backend/phase-4-Flasknotes/week2-Day10-Constraints-and-Validations/Flask-SQLAlchemy%20Validations_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Flask-SQLAlchemy Validations Lab (CodeGrade)](Backend/phase-4-Flasknotes/week2-Day10-Constraints-and-Validations/Flask-SQLAlchemy%20Validations%20Lab%20%28CodeGrade%29.pdf)
+- [Validation Conclusion](Backend/phase-4-Flasknotes/week2-Day10-Constraints-and-Validations/Validation%20Conclusion_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+#### Week 2 Code Challenge
+- [Phase 4 Code Challenge: Superheroes](Backend/phase-4-Flasknotes/week2-Code-Challenge/SA._%20Phase%204%20Code%20Challenge_%20Superheroes.pdf)
+
+### Week 3: Authentication and Deployment
+
+#### Day 11: Full-Stack Development
+- [Intro to Full-Stack Development](Backend/phase-4-Flasknotes/week3-FullStack-Development-DAY11/Intro%20to%20Full-Stack%20Development_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Adding React to Flask (CodeGrade)](Backend/phase-4-Flasknotes/week3-FullStack-Development-DAY11/Adding%20React%20to%20Flask%20%28CodeGrade%29.pdf)
+- [Adding React to Flask Part 2 (CodeGrade)](Backend/phase-4-Flasknotes/week3-FullStack-Development-DAY11/Adding%20React%20to%20Flask%20Part%202%20%28CodeGrade%29.pdf)
+- [Formik and Form Validation (CodeGrade)](Backend/phase-4-Flasknotes/week3-FullStack-Development-DAY11/Formik%20and%20Form%20Validation%20%28CodeGrade%29.pdf)
+- [Mini Lesson: TCP / HTTP / Websocket](Backend/phase-4-Flasknotes/week3-FullStack-Development-DAY11/Mini%20Lesson_%20TCP%20_%20HTTP%20_%20Websocket_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Conclusion to Full-Stack Development](Backend/phase-4-Flasknotes/week3-FullStack-Development-DAY11/Conclusion%20to%20Full-Stack%20Development_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+#### Day 12: Identity and Access Management
+- [Intro to Identity and Access Management](Backend/phase-4-Flasknotes/week3-Day12-Identity-and-access-Management/Intro%20to%20Identity%20and%20Access%20Management_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Cookies and Sessions](Backend/phase-4-Flasknotes/week3-Day12-Identity-and-access-Management/Cookies%20and%20Sessions_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Cookies and Sessions Lab (CodeGrade)](Backend/phase-4-Flasknotes/week3-Day12-Identity-and-access-Management/Cookies%20and%20Sessions%20Lab%20%28CodeGrade%29.pdf)
+- [Cookies in APIs (CodeGrade)](Backend/phase-4-Flasknotes/week3-Day12-Identity-and-access-Management/Cookies%20in%20APIs%20%28CodeGrade%29.pdf)
+- [Authenticating Users](Backend/phase-4-Flasknotes/week3-Day12-Identity-and-access-Management/Authenticating%20Users_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Authenticating Users Lab (CodeGrade)](Backend/phase-4-Flasknotes/week3-Day12-Identity-and-access-Management/Authenticating%20Users%20Lab%20%28CodeGrade%29.pdf)
+
+#### Day 13: IAM Continuation
+- [Password Protection](Backend/phase-4-Flasknotes/week3-Day13-IAM/Password%20Protection_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Password Protection Lab (CodeGrade)](Backend/phase-4-Flasknotes/week3-Day13-IAM/Password%20Protection%20Lab%20%28CodeGrade%29.pdf)
+- [Authorizing Requests](Backend/phase-4-Flasknotes/week3-Day13-IAM/Authorizing%20Requests_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Authorizing Requests Lab (CodeGrade)](Backend/phase-4-Flasknotes/week3-Day13-IAM/Authorizing%20Requests%20Lab%20%28CodeGrade%29.pdf)
+- [Putting it All Together: IAM Lab (CodeGrade)](Backend/phase-4-Flasknotes/week3-Day13-IAM/Putting%20it%20All%20Together_%20IAM%20Lab%20%28CodeGrade%29.pdf)
+- [Conclusion to Identity and Access Management](Backend/phase-4-Flasknotes/week3-Day13-IAM/Conclusion%20to%20Identity%20and%20Access%20Management_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+#### Day 14: Deployment
+- [Intro to Deployment](Backend/phase-4-Flasknotes/week3-Day14-Deployment/Intro%20to%20Deployment_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Deploying a Flask API to Render](Backend/phase-4-Flasknotes/week3-Day14-Deployment/Deploying%20a%20Flask%20API%20to%20Render_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Using Databases with Render](Backend/phase-4-Flasknotes/week3-Day14-Deployment/Using%20Databases%20with%20Render_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Deploying a Flask-React App to Render](Backend/phase-4-Flasknotes/week3-Day14-Deployment/Deploying%20a%20Flask-React%20App%20to%20Render_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Conclusion to Deployment](Backend/phase-4-Flasknotes/week3-Day14-Deployment/Conclusion%20to%20Deployment_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+#### Week 3 Code Challenge
+- [Phase 4 Code Challenge: Late Show](Backend/phase-4-Flasknotes/week3-Code-Challenge/SA._%20Phase%204%20Code%20Challenge_%20Late%20Show.pdf)
+
+### Week 4: Final Code Challenges
+
+#### Mock Code Challenges
+- [Flask Mock Challenge - Camping Fun (CodeGrade)](Backend/phase-4-Flasknotes/week4-Mock-code-Challenges/Flask%20Mock%20Challenge%20-%20Camping%20Fun%20%28CodeGrade%29.pdf)
+- [Flask Mock Challenge - Cosmic Travel (CodeGrade)](Backend/phase-4-Flasknotes/week4-Mock-code-Challenges/Flask%20Mock%20Challenge%20-%20Cosmic%20Travel%20%28CodeGrade%29.pdf)
+
+#### Final Code Challenges
+- [Phase 4 Code Challenge: Pizzas](Backend/phase-4-Flasknotes/week4-Final-code/Phase%204%20Code%20Challenge_%20Pizzas_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Phase 4 Code Challenge: Pizza Restaurants (Updated) (CodeGrade)](Backend/phase-4-Flasknotes/week4-Final-code/Phase%204%20Code%20Challenge_%20Pizza%20Restaurants%20%28Updated%29%20%28CodeGrade%29.pdf)
+- [Phase 4 Code Challenge: Superheroes](Backend/phase-4-Flasknotes/week4-Final-code/Phase%204%20Code%20Challenge_%20Superheroes%20_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+- [Phase 4 Code Challenge: Vendor Sweets](Backend/phase-4-Flasknotes/week4-Final-code/Phase%204%20Code%20Challenge_%20Vendor%20Sweets_%20Software%20Engineering%20Part-Time%2010%20Phase%204.pdf)
+
+### Web Scraping (Bonus)
+- [Scraping HTML with Beautiful Soup (CodeGrade)](Backend/phase-4-Flasknotes/WEB-SCRAPPING/Scraping%20HTML%20with%20Beautiful%20Soup%20%28CodeGrade%29.pdf)
+- [Object Oriented Scraping (CodeGrade)](Backend/phase-4-Flasknotes/WEB-SCRAPPING/Object%20Oriented%20Scraping%20%28CodeGrade%29.pdf)
+- [Scraping Kickstarter (CodeGrade)](Backend/phase-4-Flasknotes/WEB-SCRAPPING/Scraping%20Kickstarter%20%28CodeGrade%29.pdf)
+
+---
+
 ## How to Use These Notes
 
 1. **Browse by Topic**: Use the table of contents above to find specific topics you want to study
@@ -403,6 +729,24 @@ Front-end-notes/
     - course-outline/
     - week-1-Introduction-to-react-day-1/
     - week-1-Introductio-Components-and-import-day-2/
+    - ... (additional weeks)
+
+Backend/
+  phase-3/Python-notes/
+    - Course-Outline/
+    - week1-day1-Python-Fundamentals/
+    - week1-day2-Python-Basics/
+    - week2-day6-Object-oriented-in-Python/
+    - week3-Day11-Configuring-Python-Application/
+    - week4-Day17-Table-Relations-in-SQL/
+    - week5-Day21-Linked-Lists/
+    - ... (additional weeks)
+  phase-4-Flasknotes/
+    - course-outline/
+    - week1-Day1-Intro/
+    - week2-Day6-RetrivingData-From-APIs/
+    - week3-FullStack-Development-DAY11/
+    - WEB-SCRAPPING/
     - ... (additional weeks)
 ```
 
